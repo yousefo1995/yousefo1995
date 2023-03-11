@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm yousef omar</h1>
 <h3 align="center">A passionate frontend developer from palestine</h3>
 
-- 🔭 I’m currently working on [Living-the-simple-life-responsive-design](https://github.com/yousefo1995/Living-the-simple-life-responsive-design-.git)
+- 🔭 I’m currently working on [Living-the-simple-life](https://github.com/yousefo1995/living-the-simple-life.git)
 
 - 🌱 I’m currently learning **React.js, JS , CSS , HTML**
 

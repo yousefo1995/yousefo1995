@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **React.js, JS , CSS , HTML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yousefo1995/Portfolio-s-yousef.git](https://github.com/yousefo1995/Portfolio-s-yousef.git)
+- 📝 My portfolio [yousef-portfolio](https://yousefo1995.github.io/yousef-portfolio/)
+
+- 👨‍💻 All of my projects are available at [yousefo1995](https://github.com/yousefo1995)
 
 - 📫 How to reach me **yousefo1995@gmail.com**
 
